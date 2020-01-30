@@ -2,3 +2,4 @@ use at your own peril
 
 INDEX
 export/ Export an unexported package variable from your own package
+misuse/	Misuse unsafe.Pointer without go vet getting in the way
